@@ -5,21 +5,7 @@ solid patch1
        vertex -0.327179 -0.0673011 -1.34716
        vertex -0.241784 -0.0676809 -1.34355
     endloop
-  endfacet
-  facet normal 0.0421465 0.0423597 -0.998213
-    outer loop
-       vertex -0.327179 -0.153076 -1.35078
-       vertex -0.241784 -0.0676809 -1.34355
-       vertex -0.241404 -0.153076 -1.34716
-    endloop
-  endfacet
-  facet normal 0.127173 0.042432 -0.990972
-    outer loop
-       vertex -0.241404 -0.153076 -1.34716
-       vertex -0.241784 -0.0676809 -1.34355
-       vertex -0.157272 -0.0686304 -1.33275
-    endloop
-  endfacet
+  endfacet  
   facet normal 0.126626 0.0429848 -0.991019
     outer loop
        vertex -0.241404 -0.153076 -1.34716
